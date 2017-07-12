@@ -1,3 +1,6 @@
+这个项目是来自另一个项目做的修改(主要是fix了几个小问题)
+vagrant-hadoop-spark-hive-0.3.0
+
 Vagrant for Hadoop, Spark and Hive
 ==================================
 
